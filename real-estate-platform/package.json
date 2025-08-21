@@ -9,6 +9,7 @@
     "linkedin": "https://www.linkedin.com/in/aditya-chauhan-1b1a95228/"
   },
   "dependencies": {
+    "@react-oauth/google": "^0.12.2",
     "@tailwindcss/line-clamp": "^0.4.4",
     "@tanstack/react-query": "^5.83.0",
     "@testing-library/dom": "^10.4.0",
